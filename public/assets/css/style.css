@@ -1,7 +1,12 @@
+body {
+background-color: peru;
+text-align: center;
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  text-align: left;
 }
 
 .label {
@@ -17,3 +22,10 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+
+.newBurger {
+  display: inline-block;
+
+  }
+
+
