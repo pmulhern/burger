@@ -4,9 +4,11 @@
 
 ![](./demo.gif)
 
+Link to application: https://rocky-plateau-63310.herokuapp.com/
+
 ## Description
 
-This app is all about eating burgers! It features a full stack burger logger leveraging MySQL, Node, Express, Handlebars and a homemade ORM. It also follows MVC design patterns and uses Node/ MySQL to query and route data as well as Handlebars to generate HTML.
+This app is all about eating burgers! It features a full stack burger logger leveraging MySQL, Node, Express, Handlebars and a homemade ORM. It also follows MVC design patterns and uses Node/ MySQL to query and route data as well as Handlebars to generate HTML.  Application is deplyed on Heroku.
 
 Funtionality:
 
