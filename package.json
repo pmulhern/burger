@@ -24,10 +24,10 @@
   },
   "devDependencies": {},
   "development": {
-  "username": "root",
-  "password": "yourRootPassword",
-  "database": "burgers_db",
-  "host": "127.0.0.1",
+  "username": "locglxbs6ak08o8t",
+  "password": "d774u1cwbcuwc496",
+  "database": "dzkiejpp2qpus96a",
+  "host": "nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   "dialect": "mysql"
   },
   "production": {
