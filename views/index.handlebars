@@ -19,12 +19,12 @@
     </div>
 
 
-    <div class="col-sm-3 pending">
+    <div class="col-sm-3 delete-burg">
       {{!-- <h2>Devoured Burgers</h2> --}}
         <ol>
           {{#each burgers}}
             {{#if devoured}}
-            <li>{{this.burger_name}}  <button class="delete" data-id={{this.id}}>Check Please!</button></li>
+            <li>{{this.burger_name}}  <button class="delete" data-id={{this.id}}> Trash</button></li>
               {{!-- {{> cats/cat-block sleep=false}} --}}
             {{/if}}
           {{/each}}
@@ -47,6 +47,7 @@
         {{!-- <label for="slee">Devour?</label><br> --}}
          <button type="submit">Add Burger</button>
         <input type="radio" name="devour" value="0" checked hidden> <br>
+        <div>Enter a burger you want to eat and click the "Submit" button</div>
         {{!-- <input type="radio" name="devour" value="1"> Devoured --}}
       </div>
 
