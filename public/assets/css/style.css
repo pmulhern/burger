@@ -3,6 +3,10 @@ background-color: peru;
 text-align: center;
 }
 
+.pageTitle{
+  color: red
+}
+
 li {
   padding: 5px;
   margin: 5px;
